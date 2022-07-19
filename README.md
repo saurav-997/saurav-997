@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Saurav Sharma 
-- 👀 I’m currentlly working as mobile app developer.
+- 👀 I’m currently working as mobile app developer.
 - 🌱 I’m currently learning Swift and Java for iOS and Android
 - 📫 To contact just drop a mail to "100rav.97@gmail.com"
 - 
